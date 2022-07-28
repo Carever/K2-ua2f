@@ -17,7 +17,6 @@ sed -i "s/'UTC'/'CST-8'\n        set system.@system[-1].zonename='Asia\/Shanghai
 
 # 更改主题
 sed -i 's/luci-theme-bootstrap/luci-theme-argon/g' feeds/luci/collections/luci/Makefile
-sed -i 's/default bootsrap theme/default argon theme/g' feeds/luci/collections/luci/Makefile
 
 
 
