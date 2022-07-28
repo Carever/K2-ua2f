@@ -1,16 +1,9 @@
 
 ### 固件说明
+- **K2 默认登陆IP 192.168.1.1, 密码 password**
+#### 注 K2：因为K2内存比较小，纯净版，只塞进[Turbo ACC  FLOW转发加速]、[释放内存]、[中继配置]、加入ua2f、ipid模块
 
-- 已测试固件： [https://idoog.lanzous.com/b0kd0oeb](https://idoog.lanzous.com/b0kd0oeb)
-
-- 未测试最新编译：[【自动编译版】](https://github.com/soyuzom/Lede-Openwrt-K2T/actions)  [【Releases】](https://github.com/soyuzom/Lede-Openwrt-K2T/releases)  
-
-- **K2T默认登陆IP 192.168.10.1, 密码 password**
-- **K2 默认登陆IP 192.168.2.1, 密码 password**
-
-- 固件 版本号同  [Lean's OpenWrt源码仓库](https://github.com/coolsnowwolf/lede) 
-
-#### 注 K2：因为K2内存比较小，最新版固件塞不进SSR，只塞进[Turbo ACC  FLOW转发加速]、[释放内存]、[中继配置]
+#### 注 ua2f和offload、Turbo ACC  FLOW同时使用
 ------------------------------------------------------
 
 
