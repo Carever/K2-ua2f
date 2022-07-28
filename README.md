@@ -3,7 +3,7 @@
 - **K2 默认登陆IP 192.168.1.1, 密码 password**
 #### 注 K2：因为K2内存比较小，纯净版，只塞进[Turbo ACC  FLOW转发加速]、[释放内存]、[中继配置]，加入ua2f、ipid模块
 
-#### 注 ua2f和offload、Turbo ACC  FLOW同时使用
+#### 注 ua2f和offload、Turbo ACC  FLOW 不可同时使用
 ------------------------------------------------------
 
 
